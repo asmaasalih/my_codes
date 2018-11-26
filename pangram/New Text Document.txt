@@ -1,0 +1,8 @@
+Function Description
+
+Complete the function pangrams in the editor below. It should return the string pangram if the input string is a pangram. Otherwise, it should return not pangram.
+
+pangrams has the following parameter(s):
+
+s: a string to test
+This sentence is known as a pangram because it contains every letter of the alphabet.
