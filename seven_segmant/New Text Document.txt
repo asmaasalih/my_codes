@@ -1,0 +1,10 @@
+Input Format:
+
+First line contains T (test cases).
+
+Next T lines contain a Number N.
+
+Output Format:
+
+Print the largest possible number numerically that can be generated using at max that many number of matchsticks which was used to generate N.
+
