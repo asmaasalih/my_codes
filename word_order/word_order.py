@@ -1,4 +1,5 @@
-#You are given ى words.
+#problem
+#You are given n words.
 #Some words may repeat.
 #For each word, output its number of occurrences.
 #The output order should correspond with the input order of appearance of the word.
